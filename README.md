@@ -60,26 +60,6 @@
       <pre>⌘ + U</pre>
     </li>
   </ol>
-
-  <h2>✨ Screenshots</h2>
-  <table>
-    <tr>
-      <th>Input</th>
-      <th>Result</th>
-    </tr>
-    <tr>
-      <td><img src="#" alt="Input Screenshot"></td>
-      <td><img src="#" alt="Result Screenshot"></td>
-    </tr>
-  </table>
-  <p><em>(Add screenshots when ready)</em></p>
-
-  <h2>📜 License</h2>
-  <p>This project is open source and free to use for learning purposes.</p>
-
-  <h2>🙌 Credits</h2>
-  <p>This app is inspired by the classic <strong>String Calculator Kata</strong> by Roy Osherove — a popular exercise for practicing TDD in any language.</p>
-
   <p><strong>Happy Calculating! 🚀</strong></p>
 </body>
 </html>
